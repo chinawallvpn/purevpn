@@ -20,7 +20,7 @@
 
 ## PureVPN官网是哪个？
  
-* PureVPN官方网站：Purevpn.com
+* PureVPN官方网站：<a href="https://wallvpn.com/go/purevpn/">Purevpn.com</a>
 
 由于国内网络限制，中国大陆用户无法直接访问PureVPN官网。如果你已经有其他可用的翻墙工具，可以先使用这些工具连接国际网络，然后再访问PureVPN官方网站进行注册和购买服务。
 
