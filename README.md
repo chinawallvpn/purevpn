@@ -131,7 +131,7 @@ PureVPN为各种桌面操作系统提供了专业客户端，包括Windows、Mac
 * 等待应用下载和安装完成。
 * 安装完成后，点击"打开"按钮即可启动应用。
 
-如果你没有谷歌账号，或者在中国大陆无法正常访问Google Play商店，可以通过"银河录像局"这个专业平台购买Google Play账号。有了账号后，就可以按照上述步骤轻松下载PureVPN安卓客户端了。
+如果你没有谷歌账号，可以通过专业的第三方平台直接获取一个Google账号，然后就可以按照上述步骤轻松下载PureVPN安卓客户端了。
 
 三、PureVPN iOS APP下载教程
 
@@ -144,7 +144,9 @@ iPhone和iPad用户可以通过以下步骤下载PureVPN iOS版应用：
 * 使用Face ID、Touch ID或输入Apple ID密码进行身份验证。
 * 等待应用下载和安装完成后即可使用。
 
-需要特别注意的是，从App Store下载PureVPN需要使用美区Apple ID，因为中国区App Store不提供VPN类应用。如果你还没有美区账号，可以通过"银河录像局"这个专业平台购买美区Apple ID，然后按照上述步骤顺利下载PureVPN iOS客户端。
+需要特别注意的是，从App Store下载PureVPN需要使用美区Apple ID，因为中国区App Store不提供VPN类应用。如果你还没有美区账号，也可以通过专业的第三方平台直接获取一个美区Apple ID，然后按照上述步骤顺利下载PureVPN iOS客户端。
+
+注意：获取Google账号和美区Apple ID的方法，请参考：<a href="https://wallvpn.com/apple-id/">美国苹果ID</a>。
 
 ## PureVPN支持几台设备？
  
